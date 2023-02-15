@@ -36,14 +36,4 @@ fun main() {
         } else {
         println("I don't know who that is")
         }
-
-
-
-
-
-
-
-
-
-
     }
